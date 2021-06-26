@@ -23,8 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Letmeask é uma aplicação que auxilia a tirar as dúvidas da sua audiência em tempo real, com a criação de salas de Q&A ao vivo 💜 
 
 
-<a href="https://letmeask-45476.web.app/">Veja o site </a>
-
 ## 🚀 Como executar
 
 - Clone o repositório
