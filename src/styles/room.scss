@@ -13,6 +13,7 @@
   
         > img {
           max-height: 45px;
+          margin-right: 10px;
         }
 
         > div {
@@ -28,7 +29,7 @@
     main {
         max-width: 800px;
         margin: 0 auto;
-    
+        padding: 30px;
         .room-title {
           margin: 32px 0 24px;
           display: flex;
@@ -111,3 +112,11 @@
           }
         }
       }
+
+
+@media (max-width: 900px){
+
+  main {
+    padding: 10px;
+  }
+}

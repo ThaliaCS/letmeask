@@ -80,3 +80,10 @@
     }
 
 }
+
+@media (max-width: 900px){
+
+  .buttons {
+    flex-direction: column;
+  }
+}

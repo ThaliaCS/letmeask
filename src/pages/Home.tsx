@@ -72,7 +72,7 @@ export default function Home() {
             onChange={event => setRoomCode(event.target.value)}
             value={roomCode}
           />
-          <Button type="submit">
+          <Button className="button" type="submit">
             Entrar na sala
           </Button>
         </form>
